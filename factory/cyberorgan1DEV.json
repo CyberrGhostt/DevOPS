@@ -1,0 +1,9 @@
+{
+	"name": "cyberorgan1DEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "880b3902-d69f-49df-9bd5-f14422c8c8f6",
+		"tenantId": "d9d76965-2f9e-4427-bb54-2fe51a3acc14"
+	}
+}
